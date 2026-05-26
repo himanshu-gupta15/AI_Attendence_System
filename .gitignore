@@ -1,0 +1,8 @@
+.env
+.vscode
+
+*.pyc
+__pycache__/
+data/
+models/
+logs/   
